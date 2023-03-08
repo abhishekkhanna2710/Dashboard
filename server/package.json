@@ -4,10 +4,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
-    "build": "npm run build:css && npm run build:js",
-    "build:css": "sass src/styles/main.scss public/css/main.css",
-    "build:js": "webpack --config webpack.config.js"
+    "start": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
