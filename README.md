@@ -15,7 +15,7 @@ The Website Link: https://propertodashboard.netlify.app/ <br/><br/>
    <li>Dashboard Experience Section</li>
    <li>Property Management Page</li>
    <li>Agents Section</li>
-   <li>Profile Srction</li>
+   <li>Profile Section</li>
  </ul>
   
   <ins>The Experience of Properto :</ins> <br/><br/>
