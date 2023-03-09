@@ -4,9 +4,9 @@
 Properto is the ultimately Backend project which I used Technologies like React-Refine, Node JS, Express, Typescript, Cloudinary, MongoDB Atlas, Material UI.
 Basically it performs complex CRUD operations for property Management.
 
-<h2>This is my individual Project</h2>
+<h2>This is my Individual Project</h2>
 
-The Website Clone: https://propertodashboard.netlify.app/ <br/><br/>
+The Website Link: https://propertodashboard.netlify.app/ <br/><br/>
 
  <ins>The Features Developed: </ins>
 
@@ -26,6 +26,6 @@ Property Management Page
 
 ![ss3](https://user-images.githubusercontent.com/113687128/224000943-4197b0e0-af7b-49fd-b7db-cdba1867ce54.png)
 
-Profile Section
+Agents Section
 
 ![ss4](https://user-images.githubusercontent.com/113687128/224001615-b6db8589-d0f6-4e12-8930-0b08544a4d89.png)
