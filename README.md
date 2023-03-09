@@ -8,14 +8,14 @@ Basically it performs complex CRUD operations for property Management.
 
 The Website Clone: https://propertodashboard.netlify.app/ <br/><br/>
 
- <ins>The Features Developed: </ins>![ss3](https://user-images.githubusercontent.com/113687128/224000826-0df3302b-7c56-40fa-b31d-4260f334148a.png)
+ <ins>The Features Developed: </ins>
 
  <ul>
-   <li>Login Page using Google Auth,</li>
-   <li>Dashboard Experinece Section,</li>
-   <li>Property Management Page,</li>
-   <li>Agents Section,</li>
-   <li>Profile Srction,</li>
+   <li>Login Page using Google Auth</li>
+   <li>Dashboard Experience Section</li>
+   <li>Property Management Page</li>
+   <li>Agents Section</li>
+   <li>Profile Srction</li>
  </ul>
   
   <ins>The Experience of Properto :</ins> <br/><br/>
