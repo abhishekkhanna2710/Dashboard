@@ -23,8 +23,7 @@ Dashboard Page
 ![ss1](https://user-images.githubusercontent.com/113687128/224000611-fdec725c-9dae-414a-9e7b-c7c4779e2ea7.png)
 
 Property Management Page
-
-![ss3](https://user-images.githubusercontent.com/113687128/224000943-4197b0e0-af7b-49fd-b7db-cdba1867ce54.png)
+![dashboard](https://user-images.githubusercontent.com/113687128/224104332-58c5f418-5979-4f9c-a096-5deea6514800.jpg)
 
 Agents Section
 
