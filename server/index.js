@@ -26,6 +26,10 @@ app.use('/api/v1/properties', propertyRouter);
 
 
 const startServer = async () => {
+
+    if (!process.env.MONGODB_URL) {
+        throw new Error('auth DB_URI must be defined');
+    }
     try {
         // connect to database
         connectDB(process.env.MONGODB_URL)
