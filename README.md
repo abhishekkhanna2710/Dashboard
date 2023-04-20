@@ -18,9 +18,9 @@ The Website Link: https://propertodashboard.netlify.app/ <br/><br/>
    <li>Profile Section</li>
  </ul>
   
-  <h1>The Experience of Properto :</h1> <br/><br/>
+  <h1>The Experience of Properto :</h1> <
   
-  <h2>Dashboard Page</h2>
+ <h2>Dashboard Page</h2>
 
 ![ss1](https://user-images.githubusercontent.com/113687128/224000611-fdec725c-9dae-414a-9e7b-c7c4779e2ea7.png)
 
