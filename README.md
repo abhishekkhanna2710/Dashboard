@@ -25,9 +25,11 @@ The Website Link: https://propertodashboard.netlify.app/ <br/><br/>
 ![ss1](https://user-images.githubusercontent.com/113687128/224000611-fdec725c-9dae-414a-9e7b-c7c4779e2ea7.png)
 
 <h2>Property Management Page</h2>
+
 ![dashboard](https://user-images.githubusercontent.com/113687128/224104332-58c5f418-5979-4f9c-a096-5deea6514800.jpg)
 
-Agents Section
+
+<h2>Agents Section</h2>
 
 ![ss4](https://user-images.githubusercontent.com/113687128/224001615-b6db8589-d0f6-4e12-8930-0b08544a4d89.png)
  
