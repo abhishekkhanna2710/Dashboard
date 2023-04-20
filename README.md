@@ -19,7 +19,9 @@ The Website Link: https://propertodashboard.netlify.app/ <br/><br/>
  </ul>
   
   <ins>The Experience of Properto :</ins> <br/><br/>
-Dashboard Page
+  
+  <h2>Dashboard Page</h2>
+
 ![ss1](https://user-images.githubusercontent.com/113687128/224000611-fdec725c-9dae-414a-9e7b-c7c4779e2ea7.png)
 
 Property Management Page
