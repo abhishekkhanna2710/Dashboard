@@ -11,7 +11,7 @@ The Website Link: https://propertodashboard.netlify.app/ <br/><br/>
  <ins>The Features Developed: </ins>
 
  <ul>
-   <li>Login Page using Google Auth</li>
+   <li>Login Page using Google Authentication</li>
    <li>Dashboard Experience Section</li>
    <li>Property Management Page</li>
    <li>Agents Section</li>
